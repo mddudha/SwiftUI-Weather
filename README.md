@@ -17,7 +17,7 @@ A simple **iOS Weather App** built using **SwiftUI**. This app displays weather 
 ## 📸 Screenshots
 | Day Mode | Night Mode |
 |----------|-----------|
-| ![Day Mode](file:///Users/mirvabendudhagara/Downloads/IMG_6061.PNG) | ![Night Mode](file:///Users/mirvabendudhagara/Downloads/IMG_6062.PNG) |
+| ![Day Mode](https://github.com/mddudha/SwiftUI-Weather/blob/main/Light.PNG) | ![Night Mode](https://github.com/mddudha/SwiftUI-Weather/blob/main/Dark.PNG) |
 
 ## 🛠 How to Run
 1. **Clone this repository**:
