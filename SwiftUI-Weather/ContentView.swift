@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     @State private var isNight = false
-    //git push
+    
     // returns a body, returns a view
     var body: some View {
         ZStack{
